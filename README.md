@@ -56,13 +56,4 @@ Simply execute the Python script in any Python 3 environment:
 python word_guessing_game.py
 ```
 
-## Possible Enhancements
-
-- Add difficulty levels with different word lengths
-- Implement a scoring system
-- Add hints functionality
-- Include a graphical user interface
-- Expand the word list or add categories
-- Track player statistics
-
 Enjoy playing the Word Guessing Game :)
