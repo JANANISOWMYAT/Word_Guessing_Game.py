@@ -1,12 +1,15 @@
 # Word Guessing Game
+## Attribution
 
+The initial code structure for this project was learned from and inspired by tutorials on [Codédex](https://www.codedex.io/).
 A classic word guessing game implemented in Python where players attempt to guess a hidden word by suggesting letters within a limited number of attempts.
+I have added "hangman" stick figure that is changed every time the user guesses a character incorrectly.
 
 ## Features
 
 - Random word selection from a predefined list
 - Visual representation of guessed and hidden letters
-- 10 attempts to guess the word correctly
+- 6 attempts to guess the word correctly
 - Case-insensitive input handling
 - Immediate feedback on correct/incorrect guesses
 - Win/lose condition messages
@@ -37,7 +40,7 @@ The game currently includes these words:
 - google
 - nasa
 - space
-- tech
+- techie
 - peace
 
 ## Requirements
@@ -52,14 +55,5 @@ Simply execute the Python script in any Python 3 environment:
 ```bash
 python word_guessing_game.py
 ```
-
-## Possible Enhancements
-
-- Add difficulty levels with different word lengths
-- Implement a scoring system
-- Add hints functionality
-- Include a graphical user interface
-- Expand the word list or add categories
-- Track player statistics
 
 Enjoy playing the Word Guessing Game :)
