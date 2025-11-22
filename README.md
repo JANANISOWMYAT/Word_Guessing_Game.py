@@ -48,7 +48,7 @@ The game currently includes these words:
 - Python 3.x
 - Standard library modules: `random`
 
-## How to Run
+## How to Run the game 
 
 Simply execute the Python script in any Python 3 environment:
 
